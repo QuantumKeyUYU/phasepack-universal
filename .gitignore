@@ -1,0 +1,19 @@
+# Сборка CMake
+/build/
+/CMakeFiles/
+/Makefile
+cmake_install.cmake
+install_manifest.txt
+
+# Исполняемые и бинарные
+*.exe
+*.dll
+*.so
+*.dylib
+*.obj
+*.o
+
+# Python
+__pycache__/
+*.pyc
+env/

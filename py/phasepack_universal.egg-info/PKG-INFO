@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: phasepack-universal
+Version: 0.1.0
+Summary: Universal phase detection & denoise toolkit
+Author: Your Name
+Author-email: you@example.com
+Requires-Python: >=3.7
+Requires-Dist: numpy
+Requires-Dist: click
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
